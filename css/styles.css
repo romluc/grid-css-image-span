@@ -68,7 +68,7 @@ p {
 }
 
 .bg1 {
-  background: url('/img/bg1.jpg');
+  background-image: url(https://github.com/romluc/grid-css-image-span/blob/master/img/bg1.jpg?raw=true);
   color: #e5e5e5;
 }
 
